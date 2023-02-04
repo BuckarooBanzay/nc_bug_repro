@@ -1,0 +1,21 @@
+[submodule "game"]
+	path = game
+	url = https://gitlab.com/sztest/nodecore
+[submodule "worldmods/nc_cats"]
+	path = worldmods/nc_cats
+	url = https://gitlab.com/sztest/nc_cats
+[submodule "worldmods/nc_exmachina"]
+	path = worldmods/nc_exmachina
+	url = https://gitlab.com/sztest/nc_exmachina
+[submodule "worldmods/nc_skyrealm"]
+	path = worldmods/nc_skyrealm
+	url = https://gitlab.com/sztest/nc_skyrealm
+[submodule "worldmods/nc_yctiwy"]
+	path = worldmods/nc_yctiwy
+	url = https://gitlab.com/sztest/nc_yctiwy
+[submodule "worldmods/nc_ziprunes"]
+	path = worldmods/nc_ziprunes
+	url = https://gitlab.com/sztest/nc_ziprunes
+[submodule "worldmods/mtt"]
+	path = worldmods/mtt
+	url = https://github.com/buckarooBanzay/mtt
